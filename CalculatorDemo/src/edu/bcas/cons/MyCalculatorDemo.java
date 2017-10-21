@@ -10,5 +10,9 @@ public class MyCalculatorDemo {
 		System.out.println("Sum of values " + sum);
 		System.out.println("Sub of values " + sub);
 		System.out.println("Mul of values " + mul);
+		
+		System.out.println("changed item");
+		
+		
 	}
 }
