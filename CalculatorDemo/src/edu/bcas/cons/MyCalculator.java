@@ -1,6 +1,6 @@
 package edu.bcas.cons;
 
-public class MyCalculato {
+public class MyCalculator {
 
 	public int addNums(int num1, int num2) {
 		int result = num1 + num2;
